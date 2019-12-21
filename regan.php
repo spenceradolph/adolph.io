@@ -54,7 +54,7 @@
         <section class="panel">
           <div class="gallery">
             <a
-              href="images_regan/gallery/fulls/04.jpg"
+              href="images_regan/regan.jpg"
               class="image filtered span-2-5"
               data-position="top"
               ><img src="images_regan/regan.jpg" alt=""

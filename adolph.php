@@ -54,7 +54,7 @@
         <section class="panel">
           <div class="gallery">
             <a
-              href="images_adolph/gallery/fulls/04.jpg"
+              href="images_adolph/adolph.jpg"
               class="image filtered span-2-5"
               data-position="top"
               ><img src="images_adolph/adolph.jpg" alt=""

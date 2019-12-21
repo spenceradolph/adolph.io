@@ -6,7 +6,7 @@
 -->
 <html>
   <head>
-    <title>Ethereal by HTML5 UP</title>
+    <title>Regan Adolph</title>
     <meta charset="utf-8" />
     <meta
       name="viewport"
@@ -37,16 +37,13 @@
               </li>
             </ul>
           </div>
-          <div class="image filtered span-1-75" data-position="25% 25%">
-            <img src="images_regan/pic01.jpg" alt="" />
-          </div>
         </section>
 
         <!-- Panel (Spotlight) -->
         <section class="panel spotlight medium right" id="first">
           <div class="content span-7">
             <h2 class="major">A little about me.</h2>
-            <p>I like history, tennis, and my family.</p>
+            <p>I like history, tennis, and dioramas of Princess Diana's Death.</p>
           </div>
           <div class="image filtered tinted" data-position="top left">
             <img src="images_regan/pic02.jpg" alt="" />
